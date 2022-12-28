@@ -1,0 +1,68 @@
+definition for devs:
+	blockchain: set of protocols and encryption technology, for securely storing data on a distributed network
+
+for business:
+	distributed ledger and technology underlying the explosion of new digital currencies
+
+> decentralised - with protocols, cryptography and computer code
+
+> can form peer networks with trust, including global networks
+
+
+Blockchain combines cryptography and distributed computing
+
+blockchain: secure distributed database
+database consists of string of blocks containing data, each of which is encrypted with unique identifier called hash
+
+mining computers make such blocks(entry in database) and broadcast it to the network
+
+> to make an entry on database, consensus of the systems on network is needed
+
+> new blocks after verification go into database as permanent immutable records, added to the countless blocks connected in the chain - proper linear order
+
+> each block is built on the hash value of previous block; one is changed then all other forward block will be altered. this works to make the blockchain tamper proof
+
+>> this was just first gen blockchain, simply worked as database
+>> 2nd gen - execute any code on blockchain, evolving to become globally distributed cloud computing infrastructure
+
+
+DISTRIBUTED LEDGER
+> permanent and secure database
+> record or transaction of value
+>> consensus of replicated, shared and synchronised digital data, geogarphically dispursed, without centralised data storage
+
+> can be used for any form of asset registry, like inventory or monetary transaction
+assets: car, home, currency, pattents, votes, identity, health data, etc
+
+> replace private databases, with one shared, trusted and accessible with all involved parties
+
+>> thus removing third party centralised institutes: which may be inefficient- huge border friction, redundancy, arbitrage, resources wasted on competition
+
+
+SMART CONTRACTS(2nd gen blockchain)
+> computer code stored inside a blockchain
+> store(encode) contractual agreement, 
+> self executing, with terms of agreement or operation directly written in lines of code
+> these containers take input and triggers certain output(events)
+> automates many basic operations on the network
+> removes need for third parties
+> tamper proof, trusted, execute automatically
+
+
+
+>> Blockchain: paradigm for- discovery, valuation, and transfer of all discrete units of value and the development of distributed organizations via token market systems
+>> token: quantified unit of value, recorded on blockchain. can be anything for eg. likes on social media, currency, etc
+
+> token networks: autonomous, independent nodes, but through incentive structures and signalling system of the market self organise to create emergent coordination and thus a distributed management system
+FOR EG: 
+	CLEAN AIR TOKEN-
+		anyone providing service that contributes to clean air may earn CLEAN AIR token
+		those who pollute have to pay in CLEAN AIR token
+	no central authority or clean air act, we have TOKEN MARKET that works to create signals that align people's incentives of growing and maintaing underlying resource
+
+>> blockchain: enables us to design incentive structures in form of token economy, converting centralised organisations into distributed market via token economics
+> could trigger human coordination on much larger scale, like never before
+>> blockchain: has capacity to coordinate a network of autonomous nodes towards maintaining a shared infrastructure, through design of incentive systems(just like traditional domain of economics)
+
+>> blockchain, by merging new information networks with institutional structure that sit on top of them, through adding layer of trust and value exchange, strengthens the capacity of the networks as a new mode of organising society and economy.
+> can work with other tech to redesign and reconceptualize virtually every aspect of society, based on networks of autonomous nodes that are incentivised to collaborate.
